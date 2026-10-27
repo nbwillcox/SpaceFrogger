@@ -17,6 +17,10 @@ Everything is generated in code: sprites are vector-drawn on the fly, and all so
 
 Settings include a left-handed layout (power-up button on the left) and swipe sensitivity.
 
+### Controller
+
+Plug in a gamepad and it just works: left stick or D-pad hops, **A / X** uses the stored power-up, **Start** pauses. In menus the D-pad / left stick moves the highlight, **A** selects, **B** goes back and **Start** plays or resumes. **Settings -> Controller** has a dead-zone slider and lets you remap every button.
+
 ## Gameplay
 
 - **Classic mode:** hop across five lanes of space traffic, past the safe median, then over five lanes of void on drifting wreckage (hulls, asteroid chunks and diving void jellies), and dock in one of the five bays at the top. Fill all five to clear the level. You have 3 lives and a 30-second timer per frog, with extra lives at 10,000 and 30,000 points.
